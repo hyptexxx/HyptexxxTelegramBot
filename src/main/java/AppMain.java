@@ -1,3 +1,4 @@
+import config.DefaultConnectionConfig;
 import entity.Bot;
 import org.telegram.telegrambots.ApiContextInitializer;
 import service.BotService;
